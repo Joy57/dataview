@@ -22,12 +22,7 @@ import dataProduct.DropboxDP;
 import dataProduct.RelationalDP;
 import dataProduct.StringDP;
 
-/**
- * Builtin workflow
- * 
- * @author Andrey Kashlev
- * 
- */
+
 public class NaturalJoin extends Workflow {
 	public NaturalJoin(String instanceid) {
 		this.instanceId = instanceid;
