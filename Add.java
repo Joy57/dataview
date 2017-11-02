@@ -20,11 +20,7 @@ import dataProduct.DataProduct;
 import dataProduct.DropboxDP;
 import dataProduct.IntegerDP;
 
-/**
- * Builtin workflow
- * @author Andrey Kashlev
- *
- */
+
 public class Add extends Workflow {
 	public Add(String instanceid) {
 		this.instanceId = instanceid;
